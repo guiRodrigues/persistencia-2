@@ -1,0 +1,4 @@
+{"id":1,"name":"John Doe","email":"johndoe@example.com","password":"password123","vaults":null}
+{"id":1,"username":"johndoe","password":"secret123","website":"example.com","notes":"Additional notes about this entry"}
+{"id":1,"name":"Personal Vault","entries":null,"owner":"Description of personal vault1","description":null}
+{"id":2,"name":"Guilherme Rodrigues","email":"gui@example.com","password":"password1234","vaults":null}

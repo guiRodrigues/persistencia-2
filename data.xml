@@ -1,0 +1,4 @@
+<User xmlns=""><id>1</id><name>John Doe</name><email>johndoe@example.com</email><password>password123</password></User>
+<Entry xmlns=""><id>1</id><username>johndoe</username><password>secret123</password><website>example.com</website><notes>Additional notes about this entry</notes></Entry>
+<Vault xmlns=""><id>1</id><name>Personal Vault</name><owner>Description of personal vault1</owner><description/></Vault>
+<User xmlns=""><id>2</id><name>Guilherme Rodrigues</name><email>gui@example.com</email><password>password1234</password></User>
